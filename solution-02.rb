@@ -29,4 +29,4 @@
 #         fibonacci(number-2)+ fibonacci(number-1)
 #     end
 # end
-p fibonacci(50000000)
+p fibonacci(1)
